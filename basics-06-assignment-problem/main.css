@@ -1,0 +1,36 @@
+body {
+    font-family: cursive;
+}
+
+li + li {
+    background-color: maroon;
+    color: wheat;
+}
+
+li {
+    font-family: inherit;
+}
+
+ol li {
+    background-color: black;
+    color: white;
+}
+
+#assignment-instructions {
+    color: tomato;
+    font-family: sans-serif;
+}
+
+.item-selctor code {
+    color: green;
+}
+
+code {
+    color: red;
+    font-family: monospace;
+}
+
+
+
+
+
